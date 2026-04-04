@@ -59,8 +59,8 @@ export const Navbar = () => {
                         </a>
                     ))}
                     <a
-                        href="/Timilehin_Oripeloye_Resume.pdf"
-                        download
+                        href="/My-Portfolio/Timilehin_Oripeloye_Resume.pdf"
+                        download="Timilehin_Oripeloye_Resume.pdf"
                         className="text-sm font-semibold text-white bg-black dark:bg-white dark:text-black px-4 py-2 rounded-full hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors"
                     >
                         Resume
@@ -111,8 +111,8 @@ export const Navbar = () => {
                             </a>
                         ))}
                         <a
-                            href="/Timilehin_Oripeloye_Resume.pdf"
-                            download
+                            href="/My-Portfolio/Timilehin_Oripeloye_Resume.pdf"
+                            download="Timilehin_Oripeloye_Resume.pdf"
                             className="text-base font-semibold text-center text-white bg-black dark:bg-white dark:text-black px-4 py-3 rounded-full hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors mt-2"
                         >
                             Download Resume
